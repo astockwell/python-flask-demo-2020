@@ -1,16 +1,16 @@
 # Notes
 
-1.
+01.
 install python, flask
 conventions (app.py, "$ flask run")
 hello world
 
-2.
+02.
 routes-templates
 bootstrap
 hot changing / $ export FLASK_ENV=development
 
-3.
+03.
 post-data
 adding a form
 bootstrap
@@ -23,7 +23,7 @@ form POST action/method
 redirects
 error handling/validation
 
-4.
+04.
 tailored data
 
 ## Ideas
